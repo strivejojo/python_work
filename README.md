@@ -1,2 +1,2 @@
 # python_work
-python从入门到实践_练习题
+python编程：从入门到实践_练习题
